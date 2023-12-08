@@ -1,22 +1,24 @@
 <h1 align="center">Hi there!👋, I'm Maegan Rose Gabuyo</h1>
 <h5 align="center" font-weight="5">I'm passionate about coding and have a strong background in database management. I enjoy solving complex problems and creating elegant solutions. Currently pursuing a BS in Information Technology at New Era University.</h5>
 
+---
+[![](https://visitcount.itsvg.in/api?id=MaeganRoseGabuyo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src=![aa59d139b93dde70ff207187c9f1d8bd](https://github.com/MaeganRoseGabuyo/MaeganRoseGabuyo/assets/153274593/d490e0b1-1d2e-41ed-8086-290ec6572a76) width="300">
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
- <h3 align="left">🎓 Education</h3>
+ <h1 align="left">🎓 Education:</h1>
 <h4>BS Information Technology</h4>
 <ul>
   <li>New Era University</li>
-  <li>*2022-Present*</li>
+  <li>2022-Present</li>
 </ul>
 
 
  <hr/>
 
  
-<h3 align="left"> 🏅 Certificates </h3>
+<h1 align="left"> 🏅 Certificates: </h1>
 
 <table border="1">
         <tr>
@@ -46,39 +48,21 @@
 </tr>
        </table>
 
-
-<h3 align="left">Programming </h3>
-
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: black; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60">
-    <h4>Java</h4>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none; color: black;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60">
-    <h4>Javascript</h4>
-  </a>
-</div>
+# 💡 Skill Sets:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 
+## Let's Connect Professionally
+-  **LinkedIn:** [Maegan Rose Gabuyo](https://www.linkedin.com/in/maegan-rose-gabuyo-862bb3278/)
+- **Email:** gabuyomaeganrose@gmail.com
 
-
-<h3 align="left">Tools:</h3>
-
-
-<hr/>
+   Feel free to explore my projects and repositories. If you have any questions or collaboration ideas, don't hesitate to reach out. Let's connect and build amazing things together! 😊
+  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MaeganRoseGabuyo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MaeganRoseGabuyo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaeganRoseGabuyo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
-
-
-## 💻 Tech Sorcery
-- **Languages:** Java, Javascript
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
-
-**MaeganRoseGabuyo/MaeganRoseGabuyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
