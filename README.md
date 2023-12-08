@@ -1,8 +1,10 @@
 <h1 align="center">Hi there!👋, I'm Maegan Rose Gabuyo</h1>
 <h5 align="center" font-weight="5">I'm passionate about coding and have a strong background in database management. I enjoy solving complex problems and creating elegant solutions. Currently pursuing a BS in Information Technology at New Era University.</h5>
 
+![aa59d139b93dde70ff207187c9f1d8bd](https://github.com/MaeganRoseGabuyo/MaeganRoseGabuyo/assets/153274593/2287d865-557e-4fa8-a394-0a7dd64077a0)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=MaeganRoseGabuyo&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -48,15 +50,22 @@
 </tr>
        </table>
 
+<hr>
+
+
 # 💡 Skill Sets:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 
-## Let's Connect Professionally
+<hr>
+
+## 📨 Let's Connect Professionally
 -  **LinkedIn:** [Maegan Rose Gabuyo](https://www.linkedin.com/in/maegan-rose-gabuyo-862bb3278/)
 - **Email:** gabuyomaeganrose@gmail.com
 
-   Feel free to explore my projects and repositories. If you have any questions or collaboration ideas, don't hesitate to reach out. Let's connect and build amazing things together! 😊
+   <i>Feel free to explore my projects and repositories. If you have any questions or collaboration ideas, don't hesitate to reach out. Let's connect and build amazing things together! </i>😊
+
+<hr>
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaeganRoseGabuyo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
