@@ -48,6 +48,11 @@
 <td><a href="https://courses.cognitiveclass.ai/certificates/ea7c3de68f7a46a68bc642e2ea3d2fb4">SQL and Relational Databases 101</a></td>
 <td>November 2023</td>
 </tr>
+
+<tr>
+<td><a href="https://courses.cognitiveclass.ai/certificates/5e4c775f89f3429c97319b7780458976?fbclid=IwAR0vJobagkCDYPsQLkUXqRIbVnAC1jASOiqnk5MM9qcaYoMSTmCB33GKSe0">NoSql and DBaaS 101</a></td>
+<td>November 2023</td>
+</tr>
        </table>
 
 <hr>
