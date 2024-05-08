@@ -51,7 +51,7 @@
 
 <tr>
 <td><a href="https://courses.cognitiveclass.ai/certificates/5e4c775f89f3429c97319b7780458976?fbclid=IwAR0vJobagkCDYPsQLkUXqRIbVnAC1jASOiqnk5MM9qcaYoMSTmCB33GKSe0">NoSql and DBaaS 101</a></td>
-<td>November 2023</td>
+<td>April 2024</td>
 </tr>
        </table>
 
